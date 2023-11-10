@@ -1,0 +1,147 @@
+12.3309 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CF0BD14C40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CF0BD14BE0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CF0BD14A30>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001CF0BEA2400>, multiSample=False, name='window1', numSamples=2, pos=(560, 340), screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.3310 	EXP 	window1: mouseVisible = True
+12.3311 	EXP 	window1: backgroundImage = ''
+12.3311 	EXP 	window1: backgroundFit = 'none'
+12.3342 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.3343 	EXP 	window1: recordFrameIntervals = False
+12.4968 	EXP 	window1: recordFrameIntervals = True
+12.6965 	EXP 	Screen (0) actual frame rate measured at 59.97Hz
+12.6966 	EXP 	window1: recordFrameIntervals = False
+12.6971 	EXP 	window1: mouseVisible = True
+12.7320 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.4442 	EXP 	simon_task_simple: status = STARTED
+15.4444 	EXP 	window1: mouseVisible = True
+15.5155 	EXP 	Created text_norm = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+15.5156 	EXP 	window1: mouseVisible = True
+15.5201 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+15.5202 	EXP 	window1: mouseVisible = True
+15.5211 	EXP 	Created left_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='left_stim', opacity=1.0, ori=0, pos=array([-0.5,  0. ]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.5215 	EXP 	window1: mouseVisible = True
+15.5225 	EXP 	Created right_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='right_stim', opacity=1.0, ori=0, pos=array([0.5, 0. ]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.5226 	EXP 	window1: mouseVisible = True
+15.5248 	EXP 	Created ITI = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='ITI', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+15.5249 	EXP 	window1: mouseVisible = True
+15.5262 	EXP 	Created left_image = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='left_image', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.25, 0.25]), units='norm', vertices=ndarray(...), win=Window(...))
+15.5263 	EXP 	window1: mouseVisible = True
+15.5276 	EXP 	Created right_image = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='right_image', opacity=1.0, ori=0.0, pos=array([0.5, 0. ]), size=array([0.25, 0.25]), units='norm', vertices=ndarray(...), win=Window(...))
+15.5276 	EXP 	window1: mouseVisible = True
+15.5376 	EXP 	Created text_norm_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_norm_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1.8)
+15.5377 	EXP 	window1: mouseVisible = True
+15.5395 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+15.5396 	EXP 	window1: mouseVisible = True
+15.5404 	EXP 	Created left_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='left_stim', opacity=1.0, ori=0, pos=array([-0.5,  0. ]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.5404 	EXP 	window1: mouseVisible = True
+15.5411 	EXP 	Created right_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='right_stim', opacity=1.0, ori=0, pos=array([0.5, 0. ]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+15.5412 	EXP 	window1: mouseVisible = True
+15.5428 	EXP 	Created ITI = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='ITI', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='norm', win=Window(...), wrapWidth=1)
+15.5429 	EXP 	window1: mouseVisible = True
+15.5442 	EXP 	Created left_image = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='left_image', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.25, 0.25]), units='norm', vertices=ndarray(...), win=Window(...))
+15.5442 	EXP 	window1: mouseVisible = True
+15.5453 	EXP 	Created right_image = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-6.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='right_image', opacity=1.0, ori=0.0, pos=array([0.5, 0. ]), size=array([0.25, 0.25]), units='norm', vertices=ndarray(...), win=Window(...))
+0.0429 	EXP 	text_norm: alignText = 'left'
+0.0429 	EXP 	text_norm: alignText = 'left'
+0.1243 	EXP 	text_norm: autoDraw = True
+0.1243 	EXP 	text_norm: height = 0.1
+0.1243 	EXP 	text_norm: height = 0.1
+0.1243 	EXP 	text_norm: height = 0.1
+0.1243 	EXP 	text_norm: text = "Basic Simon Task\n\nOnscren you will seee either a 'O' or an 'X' as a target. Your task is to identify the target.\n\nIf you see an 'O' press 'z' on the keyboard\nIf you see an 'X' press 'm' on the keyboard\n\nThe first 10 trials that follow this screen are practice trials.\n\nPress the spacebar to continue"
+3.3208 	EXP 	Imported simon_prac_order.csv as conditions, 10 conditions, 2 params
+3.3210 	EXP 	Created sequence: random, trialTypes=10, nReps=2, seed=None
+3.3212 	EXP 	New trial (rep=0, index=0): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+3.3290 	DATA 	Keypress: space
+3.3331 	EXP 	text_norm: autoDraw = False
+3.3331 	EXP 	left_stim: foreColor = <psychopy.colors.Color: none, alpha=0.0>
+3.3331 	EXP 	left_stim: text = ''
+3.3331 	EXP 	right_stim: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+3.3331 	EXP 	right_stim: height = 0.5
+3.3331 	EXP 	right_stim: height = 0.5
+3.3331 	EXP 	right_stim: height = 0.5
+3.3331 	EXP 	right_stim: text = 'X'
+3.3331 	EXP 	left_image: fillColor = <psychopy.colors.Color: none, alpha=0.0>
+3.3331 	EXP 	left_image: borderColor = <psychopy.colors.Color: none, alpha=0.0>
+3.3331 	EXP 	right_image: fillColor = <psychopy.colors.Color: red, alpha=1.0>
+3.3331 	EXP 	right_image: borderColor = <psychopy.colors.Color: red, alpha=1.0>
+3.3331 	EXP 	fixation_cross: autoDraw = True
+3.3331 	EXP 	left_stim: autoDraw = True
+3.3331 	EXP 	right_stim: autoDraw = True
+3.3331 	EXP 	left_image: autoDraw = True
+3.3331 	EXP 	right_image: autoDraw = True
+3.3331 	EXP 	left_stim: height = 0.5
+3.3331 	EXP 	left_stim: height = 0.5
+3.3331 	EXP 	left_stim: height = 0.5
+3.3331 	EXP 	left_stim: text = ''
+4.8332 	EXP 	fixation_cross: autoDraw = False
+4.8332 	EXP 	left_stim: autoDraw = False
+4.8332 	EXP 	right_stim: autoDraw = False
+4.8332 	EXP 	ITI: autoDraw = True
+4.8332 	EXP 	left_image: autoDraw = False
+4.8332 	EXP 	right_image: autoDraw = False
+5.8183 	EXP 	New trial (rep=0, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+5.8331 	EXP 	ITI: autoDraw = False
+5.8331 	EXP 	fixation_cross: autoDraw = False
+5.8331 	EXP 	left_stim: autoDraw = False
+5.8331 	EXP 	right_stim: autoDraw = False
+5.8331 	EXP 	ITI: autoDraw = False
+5.8331 	EXP 	left_image: autoDraw = False
+5.8331 	EXP 	right_image: autoDraw = False
+5.8331 	EXP 	left_stim: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+5.8331 	EXP 	left_stim: height = 0.5
+5.8331 	EXP 	left_stim: height = 0.5
+5.8331 	EXP 	left_stim: height = 0.5
+5.8331 	EXP 	left_stim: text = 'O'
+5.8331 	EXP 	right_stim: foreColor = <psychopy.colors.Color: none, alpha=0.0>
+5.8331 	EXP 	right_stim: height = 0.5
+5.8331 	EXP 	right_stim: height = 0.5
+5.8331 	EXP 	right_stim: height = 0.5
+5.8331 	EXP 	right_stim: text = ''
+5.8331 	EXP 	left_image: fillColor = <psychopy.colors.Color: blue, alpha=1.0>
+5.8331 	EXP 	left_image: borderColor = <psychopy.colors.Color: blue, alpha=1.0>
+5.8331 	EXP 	right_image: fillColor = <psychopy.colors.Color: none, alpha=0.0>
+5.8331 	EXP 	right_image: borderColor = <psychopy.colors.Color: none, alpha=0.0>
+5.8331 	EXP 	fixation_cross: autoDraw = True
+5.8331 	EXP 	left_stim: autoDraw = True
+5.8331 	EXP 	right_stim: autoDraw = True
+5.8331 	EXP 	left_image: autoDraw = True
+5.8331 	EXP 	right_image: autoDraw = True
+7.3176 	EXP 	ITI: autoDraw = True
+7.3335 	EXP 	fixation_cross: autoDraw = False
+7.3335 	EXP 	left_stim: autoDraw = False
+7.3335 	EXP 	right_stim: autoDraw = False
+7.3335 	EXP 	left_image: autoDraw = False
+7.3335 	EXP 	right_image: autoDraw = False
+8.3014 	EXP 	New trial (rep=0, index=2): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+8.3163 	EXP 	ITI: autoDraw = False
+8.3163 	EXP 	fixation_cross: autoDraw = False
+8.3163 	EXP 	left_stim: autoDraw = False
+8.3163 	EXP 	right_stim: autoDraw = False
+8.3163 	EXP 	ITI: autoDraw = False
+8.3163 	EXP 	left_image: autoDraw = False
+8.3163 	EXP 	right_image: autoDraw = False
+8.3163 	EXP 	left_stim: foreColor = <psychopy.colors.Color: none, alpha=0.0>
+8.3163 	EXP 	left_stim: height = 0.5
+8.3163 	EXP 	left_stim: height = 0.5
+8.3163 	EXP 	left_stim: height = 0.5
+8.3163 	EXP 	left_stim: text = ''
+8.3163 	EXP 	right_stim: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+8.3163 	EXP 	right_stim: height = 0.5
+8.3163 	EXP 	right_stim: height = 0.5
+8.3163 	EXP 	right_stim: height = 0.5
+8.3163 	EXP 	right_stim: text = 'X'
+8.3163 	EXP 	left_image: fillColor = <psychopy.colors.Color: none, alpha=0.0>
+8.3163 	EXP 	left_image: borderColor = <psychopy.colors.Color: none, alpha=0.0>
+8.3163 	EXP 	right_image: fillColor = <psychopy.colors.Color: red, alpha=1.0>
+8.3163 	EXP 	right_image: borderColor = <psychopy.colors.Color: red, alpha=1.0>
+8.3163 	EXP 	fixation_cross: autoDraw = True
+8.3163 	EXP 	left_stim: autoDraw = True
+8.3163 	EXP 	right_stim: autoDraw = True
+8.3163 	EXP 	left_image: autoDraw = True
+8.3163 	EXP 	right_image: autoDraw = True
+9.5714 	DATA 	Keypress: escape
+9.7186 	EXP 	simon_task_simple: status = STOPPED
+9.7342 	EXP 	fixation_cross: autoDraw = False
+9.7342 	EXP 	left_stim: autoDraw = False
+9.7342 	EXP 	right_stim: autoDraw = False
+9.7342 	EXP 	left_image: autoDraw = False
+9.7342 	EXP 	right_image: autoDraw = False
+9.7343 	EXP 	simon_task_simple: status = STOPPED
+9.7816 	EXP 	window1: mouseVisible = True
