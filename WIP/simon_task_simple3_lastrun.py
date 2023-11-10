@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2023.2.2),
-    on November 10, 2023, at 16:18
+    on November 10, 2023, at 17:06
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -108,7 +108,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='C:\\Users\\steph\\Downloads\\simonTaskTutorial-master\\simonTaskTutorial-master\\simon_task_simple3_lastrun.py',
+        originPath='C:\\Users\\steph\\Downloads\\simonTaskTutorial-master\\simonTask\\simon_task_simple3_lastrun.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
